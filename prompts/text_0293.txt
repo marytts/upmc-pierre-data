@@ -1,0 +1,1 @@
+﻿il faut faire le distinguo entre les stratégies par pays et celles par branche d'activité, par métier .
