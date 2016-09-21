@@ -1,5 +1,9 @@
+# Gradle
+build/
+
 # OSX
 .DS_Store
 
 # data
 audio/
+wav*/
