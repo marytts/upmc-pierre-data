@@ -51,9 +51,7 @@ If all of that stuff about Git and version control is just too technical, you ca
 
 ## License
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">
-  <img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" />
-</a>
-<br />
-This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.
-See the `LICENSE` file for details.
+[![Creative Commons License](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
+
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+See the `LICENSE.md` file for details.
